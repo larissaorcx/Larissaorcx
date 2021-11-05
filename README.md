@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working at Atento
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT..
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, REACTJS, NEXT.JS,NODE.JS...
 - 💬 Ask me about Everything
 - 📫 How to reach me: https://www.linkedin.com/in/ingrid-larissa-de-oliveira-bb16b1175/
 
