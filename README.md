@@ -2,15 +2,6 @@
 
 ##
 
-**larissaorcx/Larissaorcx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working at Atento
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, REACTJS, NEXT.JS,NODE.JS...
-- 💬 Ask me about Everything
-- 📫 How to reach me: https://www.linkedin.com/in/ingrid-larissa-de-oliveira-bb16b1175/
-
 <div>
   <a href="https://github.com/larissaorcx">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=larissaorcx&theme=synthwave&show_icons=true"/>
